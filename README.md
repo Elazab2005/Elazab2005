@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammed Elazab 👋
+### Hi there, I'm Mohamed ElAzab 👋
 
 I'm a **Cybersecurity Student** at Zagazig University, focused on building secure networks and understanding systems from the ground up. 🛡️
 
@@ -16,7 +16,7 @@ I'm a **Cybersecurity Student** at Zagazig University, focused on building secur
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-:star: **Focus Areas & Projects:**
+:star: **Focus Areas:**
 - 🛡️ **Network Security:** Designing secure infrastructures and traffic analysis.
 - 🐧 **Linux Hardening:** Customizing and securing Linux environments.
 - ⌨️ **System Programming:** Exploring C++ for low-level security tools.
@@ -34,7 +34,7 @@ I'm a **Cybersecurity Student** at Zagazig University, focused on building secur
 ---
 
 ### 🌐 Connect with me:
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Elazab-0077B5?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/muhammad-elazab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Elazab-0077B5?style=flat&logo=linkedin"></a>
 <a href="mailto:mahamed22440@gmail.com"><img src="https://img.shields.io/badge/Email-mahamed22440%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
 *"Securing the future, one packet at a time."* 🔒
