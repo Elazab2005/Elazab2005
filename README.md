@@ -1,40 +1,40 @@
-# Hi there, I'm Muhammed Elazab 👋
+### Hi there, I'm Muhammed Elazab 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elazab2005&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Elazab" />
-</p>
+I'm a **Cybersecurity Student** at Zagazig University, focused on building secure networks and understanding systems from the ground up. 🛡️
 
-### 👨‍💻 About Me
-- 🛡️ **Cybersecurity Student** at Zagazig University (Class of 2028).
-- 🎓 **Certified:** HCIA (Huawei Certified ICT Associate).
-- 📡 **Currently Learning:** CCNA (Routing & Switching) & Advanced System Hardening.
-- 🐧 **OS:** Linux Enthusiast (Managing systems & security).
-- 💻 **Interests:** Low-level programming with C++, Network Defense, and SOC.
+:page_with_curl: **Technical Certifications & Training:**
+<br><br>
+![HCIA Certified](https://img.shields.io/badge/HCIA-Certified-blue?style=for-the-badge&logo=huawei&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-In_Progress-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![NTI](https://img.shields.io/badge/NTI-Trainee-red?style=for-the-badge)
 
----
+:computer: **My Skill Stack:**
+<br><br>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ My Tech Stack
+:star: **Focus Areas & Projects:**
+- 🛡️ **Network Security:** Designing secure infrastructures and traffic analysis.
+- 🐧 **Linux Hardening:** Customizing and securing Linux environments.
+- ⌨️ **System Programming:** Exploring C++ for low-level security tools.
+- 📡 **Switching & Routing:** Deep dive into Cisco and Huawei configurations.
 
-| Category | Skills |
-| --- | --- |
-| **Networking** | HCIA Certified, CCNA (In Progress), Packet Tracer |
-| **Security & OS** | Linux, System Hardening, Network Security |
-| **Languages** | C++, Python (Learning) |
-| **Web Dev (Foundations)** | HTML5, CSS3 |
+<details>
+<summary>🏆 Github Stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Elazab2005&show_icons=true&theme=tokyonight" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elazab2005&layout=compact&theme=tokyonight" alt="Languages">
+</details>
 
----
-
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elazab2005&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elazab2005&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+<br>
 
 ---
 
 ### 🌐 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) 
-[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://youtube.com/@YOUR_CHANNEL)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Elazab-0077B5?style=flat&logo=linkedin"></a>
+<a href="mailto:mahamed22440@gmail.com"><img src="https://img.shields.io/badge/Email-mahamed22440%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
----
-"Focusing on the intersection of Networking and Security to build a safer digital world." 🔒
+*"Securing the future, one packet at a time."* 🔒
