@@ -1,4 +1,4 @@
-### Hi there, I'm Mohamed ElAzab 👋
+### Hi there, I'm Muhammed Elazab 👋
 
 I'm a **Cybersecurity Student** at Zagazig University, focused on building secure networks and understanding systems from the ground up. 🛡️
 
@@ -34,7 +34,11 @@ I'm a **Cybersecurity Student** at Zagazig University, focused on building secur
 ---
 
 ### 🌐 Connect with me:
+
 <a href="https://www.linkedin.com/in/muhammad-elazab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Elazab-0077B5?style=flat&logo=linkedin"></a>
+<a href="https://www.facebook.com/profile.php?id=100055269082023" target="_blank"><img src="https://img.shields.io/badge/Facebook-Muhammed_Elazab-1877F2?style=flat&logo=facebook"></a>
+<a href="https://www.instagram.com/m0elazab" target="_blank"><img src="https://img.shields.io/badge/Instagram-@m0elazab-E4405F?style=flat&logo=instagram"></a>
+<a href="https://wa.me/201034520369" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=flat&logo=whatsapp"></a>
 <a href="mailto:mahamed22440@gmail.com"><img src="https://img.shields.io/badge/Email-mahamed22440%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
 *"Securing the future, one packet at a time."* 🔒
