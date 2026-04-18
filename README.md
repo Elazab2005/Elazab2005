@@ -1,14 +1,16 @@
-<h1 align="left">:wave: Hello there! I'm Mohamed ElAzab</h1>
+<h1 align="left">:wave: Hello there! I'm Muhammed Elazab</h1>
 <h3 align="left">Cybersecurity Student | Network Security | NTI Trainee</h3>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/CCNA-Certified-00599C?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/HCIA-Certified-red?style=flat-square&logo=huawei&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-Completed-00599C?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/English-B1/B2-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Actively_Learning-orange?style=flat-square" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Elazab2005&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" align="right" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Cybersecurity GIF" align="right" width="350" />
+
+---
 
 - :office: &nbsp; Currently training at **[NTI]** (National Telecommunication Institute)
 - :seedling: &nbsp; Currently preparing for **CompTIA Security+**
@@ -64,6 +66,7 @@
 - 🔒 **Security+:** Studying risk management and cryptography.
 - 📡 **GNS3 Labs:** Building complex enterprise networks with security policies.
 - 📺 **YouTube:** Creating content for "NetSec: Why & How".
+
 <br>
 
 ---
