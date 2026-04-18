@@ -1,44 +1,78 @@
-### Hi there, I'm Muhammed Elazab 👋
+<h1 align="left">:wave: Hello there! I'm Mohamed ElAzab</h1>
+<h3 align="left">Cybersecurity Student | Network Security | NTI Trainee</h3>
 
-I'm a **Cybersecurity Student** at Zagazig University, focused on building secure networks and understanding systems from the ground up. 🛡️
+<p align="left">
+  <img src="https://img.shields.io/badge/HCIA-Certified-red?style=flat-square&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-Completed-00599C?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-B1/B2-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively_Learning-orange?style=flat-square" />
+</p>
 
-:page_with_curl: **Technical Certifications & Training:**
-<br><br>
-![HCIA Certified](https://img.shields.io/badge/HCIA-Certified-blue?style=for-the-badge&logo=huawei&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-In_Progress-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![NTI](https://img.shields.io/badge/NTI-Trainee-red?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=Elazab2005&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" align="right" width="400" />
 
-:computer: **My Skill Stack:**
-<br><br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- :office: &nbsp; Currently training at **[NTI]** (National Telecommunication Institute)
+- :seedling: &nbsp; Currently preparing for **CompTIA Security+**
+- :speech_balloon: &nbsp; I talk about **Network Security** and **Linux Hardening**
+- :book: &nbsp; My latest project: **[Secure Branch Office Network]**
+- :computer: &nbsp; Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammad-elazab)**
 
-:star: **Focus Areas:**
-- 🛡️ **Network Security:** Designing secure infrastructures and traffic analysis.
-- 🐧 **Linux Hardening:** Customizing and securing Linux environments.
-- ⌨️ **System Programming:** Exploring C++ for low-level security tools.
-- 📡 **Switching & Routing:** Deep dive into Cisco and Huawei configurations.
-
-<details>
-<summary>🏆 Github Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Elazab2005&show_icons=true&theme=tokyonight" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elazab2005&layout=compact&theme=tokyonight" alt="Languages">
-</details>
 
+<h2 align="left">Favorite Tech Stack</h2>
+
+> Tools, languages, and technologies I work with daily.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" />
+      <br>Wireshark
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" height="48" alt="Cisco" />
+      <br>Cisco
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Current Focus & Projects</h2>
+
+- 🔒 **Security+:** Studying risk management and cryptography.
+- 📡 **GNS3 Labs:** Building complex enterprise networks with security policies.
+- 📺 **YouTube:** Creating content for "NetSec: Why & How".
 <br>
 
 ---
 
-### 🌐 Connect with me:
-
-<a href="https://www.linkedin.com/in/muhammad-elazab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammed_Elazab-0077B5?style=flat&logo=linkedin"></a>
-<a href="https://www.facebook.com/profile.php?id=100055269082023" target="_blank"><img src="https://img.shields.io/badge/Facebook-Muhammed_Elazab-1877F2?style=flat&logo=facebook"></a>
-<a href="https://www.instagram.com/m0elazab" target="_blank"><img src="https://img.shields.io/badge/Instagram-@m0elazab-E4405F?style=flat&logo=instagram"></a>
-<a href="https://wa.me/201034520369" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=flat&logo=whatsapp"></a>
-<a href="mailto:mahamed22440@gmail.com"><img src="https://img.shields.io/badge/Email-mahamed22440%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+### 🌐 Socials & Contact
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-elazab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mahamed22440@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/201034520369" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 
 *"Securing the future, one packet at a time."* 🔒
