@@ -31,16 +31,8 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-      <br>Bash
     </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" />
@@ -49,10 +41,6 @@
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" height="48" alt="Cisco" />
       <br>Cisco
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
