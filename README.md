@@ -1,5 +1,5 @@
-<h1 align="left">👋 Hello there! I'm Muhammed Elazab</h1>
-<h3 align="left">Cybersecurity Student | Network Security | Full-Stack .NET</h3>
+<h1 align="left">👋 Hello there! I'm Mohamed ElAzab</h1>
+<h3 align="left">Cybersecurity Student | Ethical Hacking & Penetration Testing | Full-Stack .NET</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/DEPI-Full--Stack_.NET-purple?style=flat-square" />
