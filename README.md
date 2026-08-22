@@ -80,6 +80,20 @@ $ echo $STATUS
       <br><b>Wireshark</b>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/file-icons/nmap.svg?color=%23FF0000" width="48" height="48" alt="Nmap" />
+      <br><b>Nmap</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/file-icons/nessus.svg?color=%23FF0000" width="48" height="48" alt="Nessus" />
+      <br><b>Nessus</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+      <br><b>Go</b>
+    </td>
+  </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&section=header" width="100%"/>
