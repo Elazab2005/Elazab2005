@@ -43,55 +43,53 @@ $ echo $STATUS
 
 > Tools, frameworks, and platforms I actively work with.
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
       <br><b>C# / .NET</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
       <br><b>C++</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+      <br><b>Go</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
       <br><b>SQL Server</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" />
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali Linux" />
       <br><b>Kali Linux</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/portswigger/FF0000" width="48" height="48" alt="PortSwigger" />
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/portswigger" width="40" height="40" alt="PortSwigger" />
       <br><b>PortSwigger</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/burpsuite/FF0000" width="48" height="48" alt="Burp Suite" />
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite" />
       <br><b>Burp Suite</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/metasploit/FF0000" width="48" height="48" alt="Metasploit" />
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/metasploit" width="40" height="40" alt="Metasploit" />
       <br><b>Metasploit</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/wireshark/FF0000" width="48" height="48" alt="Wireshark" />
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/wireshark" width="40" height="40" alt="Wireshark" />
       <br><b>Wireshark</b>
     </td>
-  </tr>
-    <tr>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/file-icons/nmap.svg?color=%23FF0000" width="48" height="48" alt="Nmap" />
+    <td align="center">
+      <img src="https://api.iconify.design/file-icons/nmap.svg?color=%234A9FD8" width="40" height="40" alt="Nmap" />
       <br><b>Nmap</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/file-icons/nessus.svg?color=%23FF0000" width="48" height="48" alt="Nessus" />
+    <td align="center">
+      <img src="https://api.iconify.design/file-icons/nessus.svg?color=%23041E42" width="40" height="40" alt="Nessus" />
       <br><b>Nessus</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br><b>Go</b>
     </td>
   </tr>
 </table>
@@ -121,8 +119,8 @@ $ echo $STATUS
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elazab2005&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9&count_private=true" width="49%" alt="Mohamed's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elazab2005&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=C9D1D9&langs_count=8" width="42%" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Elazab2005&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9&count_private=true" width="49%" alt="Mohamed's GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Elazab2005&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=C9D1D9&langs_count=8" width="42%" alt="Top languages"/>
 </p>
 
 <p align="center">
